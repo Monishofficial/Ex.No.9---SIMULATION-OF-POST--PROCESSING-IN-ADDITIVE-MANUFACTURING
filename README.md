@@ -46,9 +46,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## Support Removal Process
+![Screenshot 2023-12-19 155343](https://github.com/Monishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/451d75f9-d67e-4d0d-8c84-a0fe8fae1c83)
+## UV Curing of 3D printed part
+![Screenshot 2023-12-19 155436](https://github.com/Monishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/d52c8ef2-8596-496f-8505-bb2c9872f244)
+## Heat Treatment of 3D printed part
+![Screenshot 2023-12-19 155458](https://github.com/Monishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/7a6afe2c-08c5-4013-8671-d134021dfb29)
+![Screenshot 2023-12-19 155521](https://github.com/Monishofficial/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/80162ec7-ac45-4897-8bd1-6204e51247ed)
 
-### Name:
-### Register Number:
+### Name: MONISH N
+### Register Number:212223240097
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
